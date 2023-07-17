@@ -1,1 +1,2 @@
 testando no arquivo de txto
+fazendo consulta no bd
